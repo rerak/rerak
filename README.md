@@ -1,7 +1,8 @@
-## Hi there 👋
+## rerererererak 👋
 
-<!--
-**rerak/rerak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://solved.ac/chjg0827">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chjg0827" />
+  </a>
 
 Here are some ideas to get you started:
 
