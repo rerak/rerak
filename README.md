@@ -1,6 +1,6 @@
 ## rerererererak 👋
 
-[![Rerak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rerak)](https://github.com/anuraghazra/github-readme-stats)
+[![Rerak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rerak&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://solved.ac/chjg0827">
