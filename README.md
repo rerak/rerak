@@ -34,18 +34,10 @@
 
 ---
 
-
 <a href="https://solved.ac/chjg0827">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chjg0827" height="170"/>
   </a>
   
----
-
-### 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rerak&theme=react-dark&area=true&hide_border=false" />
-</p>
-
 ---
 
 ### 🏆 Achievements
@@ -56,14 +48,6 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔥 [Portfolio Website](https://github.com/rerak/portfolio)  
-  <p align="center">
-    <img src="https://media.giphy.com/media/26xBukhg5UqB8f9Wc/giphy.gif" width="400"/>
-  </p>
-- 🛠️ [Algorithm Practice](https://github.com/rerak/algorithms)  
-  <p align="center">
-    <img src="https://media.giphy.com/media/l0HlJH5T4O7K3pZ6k/giphy.gif" width="400"/>
-  </p>
 - 📦 [Django REST API](https://github.com/rerak/django-api)  
   <p align="center">
     <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="400"/>
