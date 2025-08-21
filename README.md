@@ -2,11 +2,11 @@
 
 <!-- 헤더 배너 (움직이는 캡슐 애니메이션) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20재각's%20Hub!&fontSize=40&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20rerak's%20Hub!&fontSize=40&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- 자기소개 -->
-<h3 align="center">👋 Hi there! I'm 재각</h3>
+<h3 align="center">👋 Hi there! I'm rerak</h3>
 <p align="center">
   💻 Backend Developer | 🚀 Algorithm Explorer | 🌱 Cloud & DevOps Learner <br>
   ✨ Always curious about building scalable systems and solving problems!
