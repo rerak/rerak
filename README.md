@@ -25,6 +25,11 @@
 
 ---
 
+### 📈 GitHub Activity (잔디 그래프)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rerak&theme=react-dark&area=true&hide_border=false" />
+</p>
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rerak&show_icons=true&theme=radical" height="170"/>
