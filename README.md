@@ -32,9 +32,11 @@
 </p>
 
 ---
+
 <a href="https://solved.ac/chjg0827">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chjg0827" />
   </a>
+  
 ---
 
 ### 🏆 Achievements
