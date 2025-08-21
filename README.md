@@ -36,7 +36,7 @@
 
 
 <a href="https://solved.ac/chjg0827">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chjg0827" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chjg0827" height="170"/>
   </a>
   
 ---
@@ -73,8 +73,6 @@
 
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://velog.io/@yourvelog"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 </p>
 
