@@ -1,7 +1,8 @@
 ## rerererererak 👋
-<!-- 헤더 배너 -->
+
+<!-- 헤더 배너 (움직이는 캡슐 애니메이션) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20rerak's%20Hub!&fontSize=40&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20재각's%20Hub!&fontSize=40&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- 자기소개 -->
@@ -33,10 +34,18 @@
 
 ---
 
+
 <a href="https://solved.ac/chjg0827">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chjg0827" />
   </a>
   
+---
+
+### 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rerak&theme=react-dark&area=true&hide_border=false" />
+</p>
+
 ---
 
 ### 🏆 Achievements
@@ -47,9 +56,18 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔥 [Portfolio Website](https://github.com/rerak/portfolio) – React + Tailwind로 제작한 개인 포트폴리오
-- 🛠️ [Algorithm Practice](https://github.com/rerak/algorithms) – 백준 & SWEA 문제풀이 모음
-- 📦 [Django REST API](https://github.com/rerak/django-api) – 인증/권한 기반 REST API 서버
+- 🔥 [Portfolio Website](https://github.com/rerak/portfolio)  
+  <p align="center">
+    <img src="https://media.giphy.com/media/26xBukhg5UqB8f9Wc/giphy.gif" width="400"/>
+  </p>
+- 🛠️ [Algorithm Practice](https://github.com/rerak/algorithms)  
+  <p align="center">
+    <img src="https://media.giphy.com/media/l0HlJH5T4O7K3pZ6k/giphy.gif" width="400"/>
+  </p>
+- 📦 [Django REST API](https://github.com/rerak/django-api)  
+  <p align="center">
+    <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="400"/>
+  </p>
 
 ---
 
@@ -60,13 +78,16 @@
   <a href="https://velog.io/@yourvelog"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 </p>
 
----
-
-<!-- 푸터 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  ![Visitor Count](https://komarev.com/ghpvc/?username=rerak&color=blue)
 </p>
 
+---
+
+<!-- 푸터 배너 (움직이는 캡슐 애니메이션) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
+</p>
 
 
 
