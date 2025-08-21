@@ -47,25 +47,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- 📦 [Django REST API](https://github.com/rerak/django-api)  
-  <p align="center">
-    <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="400"/>
-  </p>
-
----
-
-### 📫 Let's Connect!
-<p align="center">
-  <a href="https://velog.io/@yourvelog"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=rerak&color=blue)
-</p>
-
----
-
 <!-- 푸터 배너 (움직이는 캡슐 애니메이션) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
