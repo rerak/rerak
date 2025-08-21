@@ -1,7 +1,7 @@
 ## rerererererak 👋
 <!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20재각's%20Hub!&fontSize=40&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20rerak's%20Hub!&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- 자기소개 -->
@@ -66,11 +66,6 @@
 </p>
 
 
-
-
-
-
-[![Rerak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rerak&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
