@@ -134,11 +134,6 @@ console.log("Thanks for dropping by! Let's build something great 🚀");
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rerak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerak&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=rerak&theme=radical&hide_border=true" height="170"/>
 </p>
 
@@ -166,14 +161,6 @@ console.log("Thanks for dropping by! Let's build something great 🚀");
   <a href="https://solved.ac/chjg0827">
     <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=chjg0827" height="170"/>
   </a>
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rerak&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
 </p>
 
 ---
