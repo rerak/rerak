@@ -1,7 +1,6 @@
-<!-- 헤더 배너: 움직이는 캡슐 + 타이틀 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Welcome%20to%20rerak%27s%20Hub%21&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Dev%20%7C%20React%20%26%20TypeScript%20%7C%20Algorithm%20Explorer&descSize=16&descAlignY=58" />
-</p>
+<!-- 헤더 타이틀 (vercel 비의존 — GitHub이 항상 렌더링) -->
+<h1 align="center">Welcome to rerak's Hub! 👋</h1>
+<h4 align="center">Frontend Dev &nbsp;·&nbsp; React &amp; TypeScript &nbsp;·&nbsp; Algorithm Explorer</h4>
 
 <!-- 타이핑 애니메이션 자기소개 -->
 <p align="center">
@@ -141,10 +140,6 @@ console.log("Thanks for dropping by! Let's build something great 🚀");
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rerak&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=F471B5&point=FFFFFF&area=true&area_color=8B5CF6" />
-</p>
-
 <!-- Snake 컨트리뷰션 (GitHub Actions로 생성된 SVG 경로 — 아래 안내 참고) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rerak/rerak/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
@@ -178,14 +173,5 @@ console.log("Thanks for dropping by! Let's build something great 🚀");
 
 ---
 
-<!-- 명언 카드 (자동 갱신) -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-<!-- 푸터 배너 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer&animation=twinkling"/>
-</p>
+<!-- 푸터 (vercel 비의존 — 항상 렌더링) -->
+<p align="center"><sub>⭐️ Thanks for visiting! &nbsp;·&nbsp; Let's build something great 🚀</sub></p>
