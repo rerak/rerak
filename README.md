@@ -1,6 +1,6 @@
 <!-- 헤더 배너: 움직이는 캡슐 + 타이틀 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Welcome%20to%20rerak's%20Hub!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Dev%20%7C%20React%20%26%20TypeScript%20%7C%20Algorithm%20Explorer&descSize=16&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Welcome%20to%20rerak%27s%20Hub%21&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Dev%20%7C%20React%20%26%20TypeScript%20%7C%20Algorithm%20Explorer&descSize=16&descAlignY=58" />
 </p>
 
 <!-- 타이핑 애니메이션 자기소개 -->
